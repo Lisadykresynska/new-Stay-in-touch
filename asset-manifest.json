@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/new-Stay-in-touch/static/css/main.aa5e15e6.css",
+    "main.js": "/new-Stay-in-touch/static/js/main.b78061e5.js",
+    "static/js/787.d819fcfb.chunk.js": "/new-Stay-in-touch/static/js/787.d819fcfb.chunk.js",
+    "index.html": "/new-Stay-in-touch/index.html",
+    "main.aa5e15e6.css.map": "/new-Stay-in-touch/static/css/main.aa5e15e6.css.map",
+    "main.b78061e5.js.map": "/new-Stay-in-touch/static/js/main.b78061e5.js.map",
+    "787.d819fcfb.chunk.js.map": "/new-Stay-in-touch/static/js/787.d819fcfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa5e15e6.css",
+    "static/js/main.b78061e5.js"
+  ]
+}
